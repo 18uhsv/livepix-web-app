@@ -8,4 +8,4 @@ LivePix ni app ndogo inayotumia picha (na muziki wa hiari) kuunda video ya sekun
 - FFmpeg  
 - Git (hiari kwa kuchapisha kwenye GitHub)
 
-## 📁 Muundo wa Mradi# livepix-web-app
+## 📁 Muundo wa Mradi
